@@ -17,7 +17,7 @@ export default function Card() {
       </span>
       <span>London</span>
       <hr />
-      <div className="follow">
+      <div className="follow flex flex-row justify-center items-center">
         <div className="details">
           <h1>80K</h1>
           <p>Followers</p>
@@ -27,11 +27,9 @@ export default function Card() {
           <p>Likes</p>
         </div>
         <div className="details">
-          <h1>1.4K
-  </h1>
+          <h1>1.4K</h1>
           <p>Photos</p>
         </div>
-        
       </div>
     </div>
   );
