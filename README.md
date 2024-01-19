@@ -19,7 +19,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Profile-card-component)
-- Live Site URL: [live site URL](https://results-summary-component-sigma-six.vercel.app/)
+- Live Site URL: [live site URL](https://profile-card-component-iota-gilt.vercel.app/)
 
 
 ## My process
