@@ -4,9 +4,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 
 
-### The challenge
 
-Users should be able to:
 
 
 
@@ -20,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Results-summary-component)
+- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Profile-card-component)
 - Live Site URL: [live site URL](https://results-summary-component-sigma-six.vercel.app/)
 
 
